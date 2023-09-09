@@ -1,6 +1,6 @@
 <h1>Привет, я <a href="(https://github.com/JSheFF92)" target="_blank">Evgenyi</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>Я  QA Engineer (Junior Automation, Java):sunglasses:</h3>
+<h3>Я  QA Engineer (Junior Automation, Java)</h3>
 
 
 
