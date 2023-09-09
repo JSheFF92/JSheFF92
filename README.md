@@ -8,20 +8,19 @@
 
 
  ### Мои инструменты и технологии:
-
 <p align="center">
-<img width="6%" title="IntelliJ IDEA" src="src/media/logo/Intelij_IDEA.svg">
-<img width="6%" title="Java" src="src/media/logo/Java.svg">
-<img width="6%" title="Selenide" src="src/media/logo/Selenide.svg">
-<img width="6%" title="Selenoid" src="src/media/logo/Selenoid.svg">
-<img width="6%" title="Allure Report" src="src/media/logo/Allure_Report.svg">
-<img width="5%" title="Allure TestOps" src="src/media/logo/AllureTestOps.svg">
-<img width="6%" title="Gradle" src="src/media/logo/Gradle.svg">
-<img width="6%" title="JUnit5" src="src/media/logo/JUnit5.svg">
-<img width="6%" title="GitHub" src="src/media/logo/GitHub.svg">
-<img width="6%" title="Jenkins" src="src/media/logo/Jenkins.svg">
-<img width="6%" title="Telegram" src="src/media/logo/Telegram.svg">
-<img width="5%" title="Jira" src="src/media/logo/Jira.svg">
+<img width="6%" title="IntelliJ IDEA" src="media/logo/Intelij_IDEA.svg">
+<img width="6%" title="Java" src="media/logo/Java.svg">
+<img width="6%" title="Selenide" src="media/logo/Selenide.svg">
+<img width="6%" title="Selenoid" src="media/logo/Selenoid.svg">
+<img width="6%" title="Allure Report" src="media/logo/Allure_Report.svg">
+<img width="5%" title="Allure TestOps" src="media/logo/AllureTestOps.svg">
+<img width="6%" title="Gradle" src="media/logo/Gradle.svg">
+<img width="6%" title="JUnit5" src="media/logo/JUnit5.svg">
+<img width="6%" title="GitHub" src="media/logo/GitHub.svg">
+<img width="6%" title="Jenkins" src="media/logo/Jenkins.svg">
+<img width="6%" title="Telegram" src="media/logo/Telegram.svg">
+<img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
 
  
