@@ -1,0 +1,31 @@
+<h1>Привет, я <a href="(https://github.com/JSheFF92)" target="_blank">Evgenyi</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3>Я  QA Engineer (Junior Automation, Java):sunglasses:</h3>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSheFF92&show_icons=true&bg_color=00000000)
+
+
+ ### Мои инструменты и технологии:
+
+<p align="center">
+<img width="6%" title="IntelliJ IDEA" src="src/media/logo/Intelij_IDEA.svg">
+<img width="6%" title="Java" src="src/media/logo/Java.svg">
+<img width="6%" title="Selenide" src="src/media/logo/Selenide.svg">
+<img width="6%" title="Selenoid" src="src/media/logo/Selenoid.svg">
+<img width="6%" title="Allure Report" src="src/media/logo/Allure_Report.svg">
+<img width="5%" title="Allure TestOps" src="src/media/logo/AllureTestOps.svg">
+<img width="6%" title="Gradle" src="src/media/logo/Gradle.svg">
+<img width="6%" title="JUnit5" src="src/media/logo/JUnit5.svg">
+<img width="6%" title="GitHub" src="src/media/logo/GitHub.svg">
+<img width="6%" title="Jenkins" src="src/media/logo/Jenkins.svg">
+<img width="6%" title="Telegram" src="src/media/logo/Telegram.svg">
+<img width="5%" title="Jira" src="src/media/logo/Jira.svg">
+</p>
+
+ 
+### Мои контакты:
+
++  Email - Shevchuk_1992@list.ru
++  Telegram - https://t.me/EvgenyiShev
