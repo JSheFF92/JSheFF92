@@ -10,6 +10,7 @@
  ### Мои инструменты и технологии:
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="media/logo/Intelij_IDEA.svg">
+<img width="6%" title="RestAssured" src="media/logo/RestAssured.png">
 <img width="6%" title="Java" src="media/logo/Java.svg">
 <img width="6%" title="Selenide" src="media/logo/Selenide.svg">
 <img width="6%" title="Selenoid" src="media/logo/Selenoid.svg">
