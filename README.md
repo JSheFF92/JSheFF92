@@ -23,7 +23,14 @@
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
 
- 
+### Мои дипломные проекты для [qa.guru](https://qa.guru/), школы инженеров по автоматизации тестирования на Java :mortar_board:
+
+
+[UI_MTS_Diplom](https://github.com/JSheFF92/MTS-autotests)
+
+[API_Diplom](https://github.com/JSheFF92/API_Diplom)
+
+
 ### Мои контакты:
 
 +  Email - Shevchuk_1992@list.ru
