@@ -32,7 +32,7 @@
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
 
-### Мои дипломные проекты для qa.guru, школы инженеров по автоматизации тестирования на Java :mortar_board:
+ <h3> Мои дипломные проекты для  <a href="(https://qa.guru/)" target="_blank"> qa.guru </a>, школы инженеров по автоматизации тестирования на Java :mortar_board:
 
 ### :bangbang: Проект UI автоматизации сайта МТС
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSheFF92&repo=MTS-autotests)](https://github.com/JSheFF92/MTS-autotests)
@@ -52,9 +52,3 @@
 [UI_MTS_Diplom](https://github.com/JSheFF92/MTS-autotests)
 
 [API_Diplom](https://github.com/JSheFF92/API_Diplom)
-
-
-### Мои контакты:
-
-+  Email - Shevchuk_1992@list.ru
-+  Telegram - https://t.me/EvgenyiShev
