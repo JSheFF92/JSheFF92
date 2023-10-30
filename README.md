@@ -33,6 +33,8 @@
 
  ### Мои дипломные проекты для [qa.guru](https://qa.guru/), школы инженеров по автоматизации тестирования на Java :mortar_board:
 
+
+
 ### :bangbang: Проект UI автоматизации сайта МТС
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSheFF92&repo=MTS-autotests)](https://github.com/JSheFF92/MTS-autotests)
 
