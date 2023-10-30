@@ -1,4 +1,5 @@
-<h1>Привет, я <a href="(https://github.com/JSheFF92)" target="_blank">Евгений</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""/></h1>
+<h1>Привет, я  <a href="(https://github.com/JSheFF92)" target="_blank"> Евгений </a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""/></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+Junior+AQA+Engineer)](https://git.io/typing-svg)
 
@@ -31,7 +32,7 @@
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
 
-### Мои дипломные проекты для [qa.guru](https://qa.guru/), школы инженеров по автоматизации тестирования на Java :mortar_board:
+### Мои дипломные проекты для    [qa.guru](https://qa.guru/), школы инженеров по автоматизации тестирования на Java :mortar_board:
 
 ### :bangbang: Проект UI автоматизации сайта МТС
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSheFF92&repo=MTS-autotests)](https://github.com/JSheFF92/MTS-autotests)
@@ -39,7 +40,7 @@
 ### :bangbang: Проект APi автоматизации  сервиса reqres.in
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSheFF92&repo=API_Diplom)](https://github.com/JSheFF92/API_Diplom)
 
-### :bangbang: Проект MOBILE автоматизации приложения Wikipedia 
+### :bangbang: Проект Mobile автоматизации приложения Wikipedia 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSheFF92&repo=Mobile_Diplom)](https://github.com/JSheFF92/Mobile_Diplom)
 
 ### Моя статистика:
