@@ -46,8 +46,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JSheff92&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaurB&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaurB&theme=solarized_dark)
-
-
-[UI_MTS_Diplom](https://github.com/JSheFF92/MTS-autotests)
-
-[API_Diplom](https://github.com/JSheFF92/API_Diplom)
