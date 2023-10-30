@@ -1,10 +1,19 @@
-<h1>Привет, я <a href="(https://github.com/JSheFF92)" target="_blank">Evgenyi</a> 
+<h1>Привет, я <a href="(https://github.com/JSheFF92)" target="_blank">Евгений</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""/></h1>
-<h3>Я  QA Engineer (Junior Automation, Java)</h3>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+Junior+AQA+Engineer)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSheFF92&show_icons=true&bg_color=00000000)
+
+### Мои контакты:
+  <a href="https://t.me/EvgenyiShev">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+
+  <a href="mailto:shevchuk_1992@list.ru">
+    <img src="https://img.shields.io/badge/@Mail.ru-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
 
 
  ### Мои инструменты и технологии:
@@ -25,6 +34,20 @@
 </p>
 
 ### Мои дипломные проекты для [qa.guru](https://qa.guru/), школы инженеров по автоматизации тестирования на Java :mortar_board:
+
+### :bangbang: Проект UI автоматизации сайта МТС### :heavy_check_mark: UI Autotests for MTS website
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSheFF92&repo=MTS-autotests)](https://github.com/JSheFF92/MTS-autotests)
+
+### :bangbang: Проект APi автоматизации  сервиса reqres.in### :heavy_check_mark: API Autotests for Reqares.in website
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSheFF92&repo=API_Diplom)](https://github.com/JSheFF92/API_Diplom)
+
+### :bangbang: Проект MOBILE автоматизации приложения Wikipedia### :heavy_check_mark: Mobile Autotests for Wikipedia app 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSheFF92&repo=Mobile_Diplom)](https://github.com/JSheFF92/Mobile_Diplom)
+
+### Моя статистика:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JSheff92&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaurB&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaurB&theme=solarized_dark)
 
 
 [UI_MTS_Diplom](https://github.com/JSheFF92/MTS-autotests)
